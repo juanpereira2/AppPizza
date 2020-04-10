@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">AppPedePizza</string>
+    <string name="txt_nome">Nome</string>
+    <string name="txt_endereco">Endereço</string>
+    <string name="txt_sabor">Sabor da pizza</string>
+    <string name="txt_tamanho">Tamanho</string>
+    <string name="txt_pequena">Pequena</string>
+    <string name="txt_media">Média</string>
+    <string name="txt_grande">Grande</string>
+    <string name="txt_refrigerante">Refigerante 2L</string>
+    <string name="txt_avaliacao">Avaliação do último pedido</string>
+    <string name="txt_pedir">PEDIR</string>
+    <string name="txt_valor_total">Valor Total</string>
+    <string name="txt_produtos">Produtos</string>
+    <string name="txt_dados_cliente">Dados do Cliente</string>
+    <string name="txt_compartilhar">Compartilhar</string>
+
+    <string-array name="lista_sabores">
+        <item>4 Queijos</item>
+        <item>Calabresa</item>
+        <item>Mista</item>
+        <item>Peperoni</item>
+        <item>Portuguesa</item>
+    </string-array>
+</resources>
